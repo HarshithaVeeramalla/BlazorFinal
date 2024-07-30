@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\v-harshithav\\source\\repos\\July\\BlazorApp2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{39032491-EDE1-4174-A341-83E68C123FC1}|BlazorApp2\\Server\\BlazorApp2.Server.csproj|c:\\users\\v-harshithav\\source\\repos\\july\\blazorapp2\\blazorapp2\\server\\blazorapp2.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{39032491-EDE1-4174-A341-83E68C123FC1}|BlazorApp2\\Server\\BlazorApp2.Server.csproj|solutionrelative:blazorapp2\\server\\blazorapp2.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BCD81A2-F891-4D0F-9338-1E57F9802F94}|BlazorApp2\\Client\\BlazorApp2.Client.csproj|c:\\users\\v-harshithav\\source\\repos\\july\\blazorapp2\\blazorapp2\\client\\blazorapp2.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8BCD81A2-F891-4D0F-9338-1E57F9802F94}|BlazorApp2\\Client\\BlazorApp2.Client.csproj|solutionrelative:blazorapp2\\client\\blazorapp2.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{39032491-EDE1-4174-A341-83E68C123FC1}|BlazorApp2\\Server\\BlazorApp2.Server.csproj|c:\\users\\v-harshithav\\source\\repos\\july\\blazorapp2\\blazorapp2\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{39032491-EDE1-4174-A341-83E68C123FC1}|BlazorApp2\\Server\\BlazorApp2.Server.csproj|solutionrelative:blazorapp2\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
@@ -35,19 +43,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\v-harshithav\\source\\repos\\July\\BlazorApp2\\BlazorApp2\\Server\\appsettings.json",
-              "RelativeDocumentMoniker": "BlazorApp2\\Server\\appsettings.json",
-              "ToolTip": "C:\\Users\\v-harshithav\\source\\repos\\July\\BlazorApp2\\BlazorApp2\\Server\\appsettings.json",
-              "RelativeToolTip": "BlazorApp2\\Server\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-30T11:37:26.963Z",
+              "Title": "BlazorApp2.Server",
+              "DocumentMoniker": "C:\\Users\\v-harshithav\\source\\repos\\July\\BlazorApp2\\BlazorApp2\\Server\\BlazorApp2.Server.csproj",
+              "RelativeDocumentMoniker": "BlazorApp2\\Server\\BlazorApp2.Server.csproj",
+              "ToolTip": "C:\\Users\\v-harshithav\\source\\repos\\July\\BlazorApp2\\BlazorApp2\\Server\\BlazorApp2.Server.csproj",
+              "RelativeToolTip": "BlazorApp2\\Server\\BlazorApp2.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-30T11:48:25.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlazorApp2.Client",
+              "DocumentMoniker": "C:\\Users\\v-harshithav\\source\\repos\\July\\BlazorApp2\\BlazorApp2\\Client\\BlazorApp2.Client.csproj",
+              "RelativeDocumentMoniker": "BlazorApp2\\Client\\BlazorApp2.Client.csproj",
+              "ToolTip": "C:\\Users\\v-harshithav\\source\\repos\\July\\BlazorApp2\\BlazorApp2\\Client\\BlazorApp2.Client.csproj",
+              "RelativeToolTip": "BlazorApp2\\Client\\BlazorApp2.Client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-30T11:47:54.112Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\v-harshithav\\source\\repos\\July\\BlazorApp2\\BlazorApp2\\Server\\appsettings.json",
+              "RelativeDocumentMoniker": "BlazorApp2\\Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\v-harshithav\\source\\repos\\July\\BlazorApp2\\BlazorApp2\\Server\\appsettings.json",
+              "RelativeToolTip": "BlazorApp2\\Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T11:37:26.963Z",
+              "EditorCaption": ""
             }
           ]
         }
